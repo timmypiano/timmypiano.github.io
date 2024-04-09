@@ -2,7 +2,7 @@ The title of my project will most likely be: TIMMYPIANO WEBSITE!
 
 My project is about creating a website that I can use to share my music, skills, and have a portfolio/resume.
 
-It will have 2 different pages you can click on, one is my music and one is my services. It will be executed using HTML. 
+It will have 2 different pages you can click on, one is my music and one is my services. It will be executed using HTML and CSS. 
 
 No matter what, I will have a website with my name on it and a picture of me!
 

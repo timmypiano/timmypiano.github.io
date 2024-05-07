@@ -9,4 +9,29 @@ Okay so I'm not sure if this is the right method. But I just my index file and r
 
 I'm using this reference: https://github.com/mdn/content/blob/main/files/en-us/learn/html/introduction_to_html/creating_hyperlinks/index.md
 
-OOOO so I wasn't on a bad route when I copied a new html file. It's starting to make sense. 
+OOOO so I wasn't on a bad route when I copied a new html file. It's starting to make sense. I just have to have all the html in the same folder, what an easy fix. 
+
+Ayyye I feel so smart. Lol. Shoutout github for explaining so well. Youtube sucks. 
+
+Alright so now my images and stuff are kinda huuuge and I know that's like a CSS thing, or I think it is? So let me research how CSS works. 
+
+Going off this reference: https://gist.github.com/SylvioGiubine/9f1e04ed1f847e25dceb889173e02742# 
+
+Okay so I gotta figure out if I wanna make it inline internal or external vibes. FIIRE, I see the vibes. 
+
+https://imagekit.io/blog/how-to-resize-image-in-html/ This website is showing me how to resize images in github.
+
+Alright I'm researching CSS stuff, trying to find templates and stuff, using this website: https://www.w3schools.com/css/css_intro.asp
+
+Okay so I'm confused I can't find any templates that are just .css files, they seem to all be HTML. 
+
+Alright so nevermind me being stupid about .css, I'm didn't realize it was an easy vibe.
+
+I figured out how to make a picture more transparant vibes haha, let me see if there's any cool animation to add, or see if I can add music.
+
+https://gist.github.com/AppLoidx/2f5fca393c72609b01d9550fe93d57f5 This website talks about adding audio on HTML.
+
+Okay nevermind it didn't work and it's too complicated hahaha.
+
+Okay so I'm like trying to understand how background images work with the CSS thing I copied but it's not really doing the job so I'm just gonna stick to this code because it looks pretty :) 
+

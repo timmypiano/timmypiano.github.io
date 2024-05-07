@@ -35,3 +35,5 @@ Okay nevermind it didn't work and it's too complicated hahaha.
 
 Okay so I'm like trying to understand how background images work with the CSS thing I copied but it's not really doing the job so I'm just gonna stick to this code because it looks pretty :) 
 
+Okay I figured it out! I think lol. But my website looks kinda cool I can't lie, I'm like a coder now.
+

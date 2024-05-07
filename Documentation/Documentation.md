@@ -37,3 +37,5 @@ Okay so I'm like trying to understand how background images work with the CSS th
 
 Okay I figured it out! I think lol. But my website looks kinda cool I can't lie, I'm like a coder now.
 
+OOOO I forgot, this is the CSS template I used:
+https://www.w3schools.com/w3css/tryit.asp?filename=tryw3css_templates_coming_soon&stacked=h
